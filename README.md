@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @HarryHomie
-- 👀 I’m interested in game development
+- 👀 I’m interested in AI development
+- I may not be the best but I am willing to work for it.
