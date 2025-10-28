@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="800" height="200" viewBox="0 0 800 200" role="img"
+     aria-label="HarryHomie's live activity graph with katana slash">
+  <defs>
+    <!-- glow gradient for the slash -->
+    <linearGradient id="katanaGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff4655" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ff4655" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#ffd1d7" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ff4655" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- small blur filter for glow (works in many browsers) -->
+    <filter id="fblur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- background rectangle (matches dark theme of the activity graph) -->
+  <rect x="0" y="0" width="800" height="200" fill="#0d1117"/>
+
+  <!-- Live activity graph as an embedded image (dynamic) -->
+  <!-- Note: the activity graph URL is external and will be fetched by the browser -->
+  <image href="https://github-readme-activity-graph.vercel.app/graph?username=HarryHomie&theme=github-dark&area=true&hide_border=true"
+         x="0" y="0" width="800" height="200" preserveAspectRatio="xMidYMid slice" />
+
+  <!-- Katana slash stroke (glowing) -->
+  <g style="pointer-events:none">
+    <!-- main glowing stroke (blurred for glow) -->
+    <line id="katana-blur" x1="-160" y1="110" x2="120" y2="70"
+          stroke="url(#katanaGlow)" stroke-width="18" stroke-linecap="round"
+          opacity="0.9" filter="url(#fblur)">
+      <!-- animate translation of the line endpoints -->
+      <animate attributeName="x1" from="-160" to="980" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="120" to="1260" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="y1" from="110" to="-30" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="y2" from="70" to="-70" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <!-- fade in/out so it doesn't always look harsh -->
+      <animate attributeName="opacity" values="0;0.9;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- sharper center line (the actual 'cut') -->
+    <line id="katana-core" x1="-160" y1="110" x2="120" y2="70"
+          stroke="#ff4655" stroke-width="4" stroke-linecap="round" opacity="0.95">
+      <animate attributeName="x1" from="-160" to="980" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="120" to="1260" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="y1" from="110" to="-30" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="y2" from="70" to="-70" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- small katana hilt graphic that travels with slash (pure SVG) -->
+  <g id="hilt" transform="translate(-260,110)">
+    <g>
+      <rect x="0" y="-3" width="240" height="6" fill="#dcdcdc" rx="1"/>
+      <rect x="0" y="-2" width="240" height="2" fill="#ffffff" opacity="0.75"/>
+      <ellipse cx="245" cy="0" rx="10" ry="12" fill="#8b0000"/>
+      <rect x="255" y="-4" width="45" height="8" fill="#2a2a2a" rx="1"/>
+      <circle cx="292" cy="0" r="4" fill="#8b0000"/>
+      <!-- translate the whole hilt across the canvas in sync with the slash -->
+      <animateTransform attributeName="transform" type="translate"
+                        values="-260,110; 1000, -60" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <!-- slight rotation for flair -->
+      <animateTransform attributeName="transform" type="rotate" additive="sum"
+                        values="10 200 0; -15 200 0; 10 200 0" dur="0.4s" begin="0.55s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- accessibility text (hidden) -->
+  <title>HarryHomie's live GitHub activity graph with katana slash effect</title>
+</svg>
