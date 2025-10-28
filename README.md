@@ -78,33 +78,8 @@
 
 ---
 
-<div align="center" style="position:relative;display:inline-block;">
-  <!-- 🌑 Live activity graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HarryHomie&theme=github-dark&area=true&hide_border=true"
-    width="800"
-    alt="HarryHomie's Activity Graph"
-  />
+![HarryHomie's Katana Graph](./katana-activity.svg)
 
-  <!-- ⚔️ Katana slash animation -->
-  <svg viewBox="0 0 800 200" width="800" height="200"
-       style="position:absolute;top:0;left:0;pointer-events:none;">
-    <defs>
-      <linearGradient id="katanaGlow" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#ff4655" stop-opacity="0"/>
-        <stop offset="50%" stop-color="#ff4655" stop-opacity="1"/>
-        <stop offset="100%" stop-color="#ff4655" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-
-    <!-- Slash line -->
-    <line x1="-80" y1="100" x2="120" y2="100"
-          stroke="url(#katanaGlow)" stroke-width="6" stroke-linecap="round">
-      <animate attributeName="x1" from="-80" to="880" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="120" to="1080" dur="2s" repeatCount="indefinite" />
-    </line>
-  </svg>
-</div>
 
 
 ---
