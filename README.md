@@ -46,14 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryHomie&theme=radical" alt="GitHub streak"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarryHomie&theme=onedark&no-frame=true&margin-w=15"/>
-</p>
-
 
 ---
 
