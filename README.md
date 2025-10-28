@@ -67,19 +67,19 @@
 
 ---
 
-![Bumblebee animation](https://github.com/HarryHomie/HarryHomie/blob/output/github-contribution-grid-snake.svg)
+![Katana Animation](https://github.com/HarryHomie/HarryHomie/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/harrisonamaral" target="_blank">
+  <a href="https://www.linkedin.com/in/harrison-amaral-b59501231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HarryHomie" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:harrisonamaral@example.com">
+  <a href="mailto:harrison.e.amaral@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
