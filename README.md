@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryHomie&show_icons=true&theme=radical)
 
 
 
