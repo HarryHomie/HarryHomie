@@ -1,6 +1,6 @@
 <!-- TITLE SECTION -->
 <h1 align="center">Hey there, I'm Harrison 👋</h1>
-<h3 align="center">✨ Developer • Wannabe Dancer • "No blood just coffee" Coder ✨</h3>
+<h3 align="center">✨ Developer • Wannabe Dancer • "Coffee replaced blood" Coder ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
@@ -66,7 +66,10 @@
 </p>
 
 ---
- 
+
+![Bumblebee animation](https://github.com/HarryHomie/HarryHomie/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 🌐 Connect with Me
 
 <p align="center">
