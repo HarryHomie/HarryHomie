@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryHomie&layout=compact&theme=radical)
 
 
 ![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryHomie&show_icons=true&theme=radical)
