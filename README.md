@@ -78,18 +78,8 @@
 
 ---
 
-<p align="center">
-  <svg width="800" height="300" xmlns="http://www.w3.org/2000/svg">
-    <image href="https://github-readme-activity-graph.vercel.app/graph?username=HarryHomie&theme=github-dark" width="800" height="300" />
-    <rect id="slash" width="800" height="300" fill="black" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="5s" fill="freeze"/>
-    </rect>
-    <path d="M-200 400 L1000 -100" stroke="#ff2e2e" stroke-width="4" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.6s" begin="4s" fill="freeze"/>
-      <animateTransform attributeName="transform" type="translate" from="-200 0" to="1000 0" dur="0.6s" begin="4s" fill="freeze"/>
-    </path>
-  </svg>
-</p>
+## ⚡ Latest Activity
+[![HarryHomie’s Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarryHomie&theme=tokyo-night&area=true&hide_border=true)](https://github.com/HarryHomie)
 
 
 
