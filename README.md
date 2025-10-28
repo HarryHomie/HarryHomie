@@ -1,6 +1,6 @@
 <!-- TITLE SECTION -->
-<h1 align="center">Hey there, I'm Harry 👋</h1>
-<h3 align="center">✨ Developer • Dancer • Coffee-fueled Coder ✨</h3>
+<h1 align="center">Hey there, I'm Harrison 👋</h1>
+<h3 align="center">✨ Developer • Wannabe Dancer • Coffee-fueled Coder ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
@@ -54,27 +54,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HarryHomie&theme=onedark&no-frame=true&margin-w=15"/>
 </p>
 
----
-
-## 🧩 Featured Projects
-
-| 🚀 Project | 💬 Description | ⚙️ Tech |
-|-------------|----------------|---------|
-| [☕ Cafe Manager](https://github.com/HarryHomie/cafe-manager) | A MERN app for managing cafe orders | React, Node.js, MongoDB |
-| [📰 Xtractor](https://github.com/HarryHomie/xtractor) | Downloads and merges e-paper PDFs | Python, PyPDF, Playwright |
-| [🔍 Reporter Tool](https://github.com/HarryHomie/reporter-ui) | Highlights keywords in PDFs | Tkinter, JSON, PDF |
-| [💡 Portfolio Site](https://harryhomie.github.io/) | My creative portfolio | HTML, CSS, JS |
 
 ---
 
 ## 🎶 Fun Corner
 
-> “Code like it’s dance choreography — clean, rhythmic, and full of flow.”  
+> “Code like it’s dance choreography — clean, rhythmic, and full of flow, atleast when you get it right.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarryHomie&color=blue" alt="Profile views"/>
-</p>
+
