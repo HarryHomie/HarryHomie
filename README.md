@@ -1,6 +1,6 @@
 <!-- TITLE SECTION -->
 <h1 align="center">Hey there, I'm Harrison 👋</h1>
-<h3 align="center">✨ Developer • Wannabe Dancer • Coffee-fueled Coder ✨</h3>
+<h3 align="center">✨ Developer • Wannabe Dancer • "No blood just coffee" Coder ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
@@ -49,12 +49,36 @@
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarryHomie&theme=onedark&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
 ## 🎶 Fun Corner
 
 > “Code like it’s dance choreography — clean, rhythmic, and full of flow, atleast when you get it right.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+</p>
+
+---
+ 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/harrisonamaral" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HarryHomie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:harrisonamaral@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
