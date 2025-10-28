@@ -67,7 +67,14 @@
 
 ---
 
-![Katana Animation](https://github.com/HarryHomie/HarryHomie/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Katana Commit Slasher](https://raw.githubusercontent.com/HarryHomie/HarryHomie/main/katana.svg)
+
+### Hi there! 👋 I'm HarryHomie
+*Slashing through commits like a samurai* ⚔️
+
+</div>
 
 ---
 ## 🌐 Connect with Me
