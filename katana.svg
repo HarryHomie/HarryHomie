@@ -1,0 +1,148 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="220" fill="#0d1117"/>
+  
+  <!-- Container that shakes -->
+  <g id="shakeContainer">
+    <!-- Screen shake animations triggered at each hit -->
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="1s;6s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="1.3s;6.3s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="1.6s;6.6s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="1.9s;6.9s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="2.2s;7.2s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="2.5s;7.5s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="2.8s;7.8s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="3.1s;8.1s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="3.4s;8.4s" additive="sum"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; -5,2; 5,-2; -4,3; 4,-3; -3,2; 3,-2; 0,0"
+      dur="0.3s" begin="3.7s;8.7s" additive="sum"/>
+    
+    <!-- Title text -->
+    <text x="400" y="40" font-family="monospace" font-size="20" fill="#58a6ff" text-anchor="middle" font-weight="bold">
+      ⚔️ COMMIT DESTROYER ⚔️
+    </text>
+    
+    <!-- GitHub Contribution Grid -->
+    <g id="grid" transform="translate(250,90)">
+      <rect id="c1" x="0" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c2" x="18" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c3" x="36" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c4" x="54" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c5" x="72" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c6" x="90" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c7" x="108" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c8" x="126" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c9" x="144" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      <rect id="c10" x="162" y="0" width="12" height="12" rx="2" fill="#238636"/>
+      
+      <!-- Slash effects -->
+      <path d="M -3,-3 L 15,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="1s;6s"/>
+      </path>
+      <path d="M 15,-3 L 33,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="1.3s;6.3s"/>
+      </path>
+      <path d="M 33,-3 L 51,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="1.6s;6.6s"/>
+      </path>
+      <path d="M 51,-3 L 69,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="1.9s;6.9s"/>
+      </path>
+      <path d="M 69,-3 L 87,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="2.2s;7.2s"/>
+      </path>
+      <path d="M 87,-3 L 105,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="2.5s;7.5s"/>
+      </path>
+      <path d="M 105,-3 L 123,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="2.8s;7.8s"/>
+      </path>
+      <path d="M 123,-3 L 141,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="3.1s;8.1s"/>
+      </path>
+      <path d="M 141,-3 L 159,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="3.4s;8.4s"/>
+      </path>
+      <path d="M 159,-3 L 177,15" stroke="#ff4444" stroke-width="3" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="0.2s" begin="3.7s;8.7s"/>
+      </path>
+    </g>
+    
+    <!-- Commit vanish animations -->
+    <animate xlink:href="#c1" attributeName="opacity" values="1;1;0" begin="1s;6s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c2" attributeName="opacity" values="1;1;0" begin="1.3s;6.3s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c3" attributeName="opacity" values="1;1;0" begin="1.6s;6.6s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c4" attributeName="opacity" values="1;1;0" begin="1.9s;6.9s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c5" attributeName="opacity" values="1;1;0" begin="2.2s;7.2s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c6" attributeName="opacity" values="1;1;0" begin="2.5s;7.5s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c7" attributeName="opacity" values="1;1;0" begin="2.8s;7.8s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c8" attributeName="opacity" values="1;1;0" begin="3.1s;8.1s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c9" attributeName="opacity" values="1;1;0" begin="3.4s;8.4s" dur="0.15s" fill="freeze"/>
+    <animate xlink:href="#c10" attributeName="opacity" values="1;1;0" begin="3.7s;8.7s" dur="0.15s" fill="freeze"/>
+    
+    <!-- Stats counter -->
+    <text x="400" y="180" font-family="monospace" font-size="14" fill="#8b949e" text-anchor="middle">
+      Commits Slashed: <tspan fill="#ff4444" font-weight="bold">∞</tspan>
+    </text>
+  </g>
+  
+  <!-- Katana (outside shake container) -->
+  <g id="katana">
+    <g>
+      <defs>
+        <linearGradient id="bladeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" style="stop-color:#e8e8e8"/>
+          <stop offset="50%" style="stop-color:#ffffff"/>
+          <stop offset="100%" style="stop-color:#c0c0c0"/>
+        </linearGradient>
+      </defs>
+      <!-- Blade -->
+      <rect x="0" y="-3" width="140" height="6" fill="url(#bladeGrad)" rx="1"/>
+      <rect x="0" y="-2" width="140" height="2" fill="#ffffff" opacity="0.7"/>
+      <!-- Guard -->
+      <ellipse cx="145" cy="0" rx="8" ry="10" fill="#8b0000"/>
+      <ellipse cx="145" cy="0" rx="6" ry="8" fill="#a00000"/>
+      <!-- Handle -->
+      <rect x="150" y="-4" width="35" height="8" fill="#2a2a2a" rx="1"/>
+      <line x1="157" y1="-4" x2="157" y2="4" stroke="#d4af37" stroke-width="1"/>
+      <line x1="165" y1="-4" x2="165" y2="4" stroke="#d4af37" stroke-width="1"/>
+      <line x1="173" y1="-4" x2="173" y2="4" stroke="#d4af37" stroke-width="1"/>
+      <!-- Pommel -->
+      <circle cx="187" cy="0" r="4" fill="#8b0000"/>
+      
+      <!-- Movement -->
+      <animateTransform attributeName="transform"
+        type="translate"
+        values="-250,110; 950,110"
+        dur="5s"
+        repeatCount="indefinite"/>
+      
+      <!-- Swing -->
+      <animateTransform attributeName="transform"
+        type="rotate"
+        additive="sum"
+        values="20 90 0; -25 90 0; 20 90 0"
+        dur="0.35s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
