@@ -69,17 +69,6 @@
 
 <div align="center">
 
-![Katana Commit Slasher](https://raw.githubusercontent.com/HarryHomie/HarryHomie/main/katana.svg)
-
-### Hi there! 👋 I'm HarryHomie
-*Slashing through commits like a samurai* ⚔️
-
-</div>
-
----
-
-![HarryHomie's Katana Graph](./katana-activity.svg)
-
 
 
 ---
