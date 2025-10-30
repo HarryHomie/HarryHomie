@@ -9,12 +9,11 @@
 ---
 
 ## 🌟 About Me
-
-🎯 Full Stack Developer & Software Intern at Fifteen73 Media  
+  
 💡 I love building apps that make daily life easier  
-🕺 I dance, code, and sometimes do both at once  
-📍 Based in Goa, India  
-☕ Fueled by coffee and curiosity  
+🕺 I code, try to dance, and sometimes do both at once  
+📍 Based in Goa, India (But not chill) 
+☕ Fueled by coffee, curiosity and a side of pain
 
 ---
 
@@ -59,7 +58,7 @@
 
 ## 🎶 Fun Corner
 
-> “Code like it’s dance choreography — clean, rhythmic, and full of flow, atleast when you get it right.”  
+> “Code like it’s dance choreography — clean, rhythmic, and full of flow, atleast when you get it right, otherwise you look like an idiot.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
