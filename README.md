@@ -12,7 +12,8 @@
   
 💡 I love building apps that make daily life easier  
 🕺 I code, try to dance, and sometimes do both at once  
-📍 Based in Goa, India (But not chill) 
+📍 Based in Goa, India (But not chill)
+
 ☕ Fueled by coffee, curiosity and a side of pain
 
 ---
