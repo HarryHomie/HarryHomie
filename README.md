@@ -10,10 +10,10 @@
 
 ## 🌟 About Me
   
-💡 I love building apps that make daily life easier at my expense 
-🕺 I code, try to dance, and sometimes do both at once  
-📍 Based in Banglore, India 
-☕ Fueled by coffee, curiosity and a side of pain
+💡 I love building apps that make daily life easier at my expense <br/>
+🕺 I code, try to dance, and sometimes do both at once  <br/>
+📍 Based in Banglore, India <br/>
+☕ Fueled by coffee, curiosity and a side of pain<br/>
 
 ---
 
@@ -27,24 +27,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Tkinter-FFB300?style=for-the-badge"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryHomie&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryHomie&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-## 🔥 Current Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryHomie&theme=radical" alt="GitHub streak"/>
-</p>
-
 
 ---
 
