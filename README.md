@@ -10,9 +10,9 @@
 
 ## 🌟 About Me
   
-💡 I love building apps that make daily life easier  
+💡 I love building apps that make daily life easier at my expense 
 🕺 I code, try to dance, and sometimes do both at once  
-📍 Based in Goa, India (But not chill)
+📍 Based in Banglore, India 
 ☕ Fueled by coffee, curiosity and a side of pain
 
 ---
