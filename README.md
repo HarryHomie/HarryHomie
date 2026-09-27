@@ -16,7 +16,6 @@ Based in Banglore, India <br/>
 
 Fueled by the blissful vibes of green tea so that I don't bash my keyboard in <br/>
 
---
 
 ---
 
@@ -30,11 +29,6 @@ Fueled by the blissful vibes of green tea so that I don't bash my keyboard in <b
 
 ---
 
-<div align="center">
-
-
-
----
 ## 🌐 Connect with Me
 
 <p align="center">
