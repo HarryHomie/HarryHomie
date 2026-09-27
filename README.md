@@ -1,6 +1,6 @@
 <!-- TITLE SECTION -->
-<h1 align="center">Hey there, I'm Harrison 👋</h1>
-<h3 align="center">✨ Developer • Wannabe Dancer • "Coffee replaced blood" Coder ✨</h3>
+<h1 align="center">Hey there, I'm Harrison </h1>
+<h3 align="center">Developer • Certified Teacher's Pet • "Green Tea replaced blood" Coder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
@@ -10,37 +10,19 @@
 
 ## 🌟 About Me
   
-💡 I love building apps that make daily life easier at my expense <br/>
-🕺 I code, try to dance, and sometimes do both at once  <br/>
-📍 Based in Banglore, India <br/>
-☕ Fueled by coffee, curiosity and a side of pain<br/>
+I love going at complex problems <br/>
+I code, yes big surprise <br/>
+Based in Banglore, India <br/>
 
----
+Fueled by the blissful vibes of green tea so that I don't bash my keyboard in <br/>
 
-## 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Tkinter-FFB300?style=for-the-badge"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarryHomie&theme=onedark&no-frame=true&margin-w=15"/>
-</p>
+--
 
 ---
 
 ## 🎶 Fun Corner
 
-> “Code like it’s dance choreography — clean, rhythmic, and full of flow, atleast when you get it right, otherwise you look like an idiot.”  
+> “Code is amazing when is works..... when it works..... *cries.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
@@ -56,7 +38,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harrison-amaral-b59501231/" target="_blank">
+  <a href="https://www.linkedin.com/in/harrison-emilio-coelho-do-amaral-b59501231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/HarryHomie" target="_blank">
