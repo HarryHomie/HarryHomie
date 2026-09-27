@@ -12,8 +12,7 @@
   
 I love going at complex problems <br/>
 I code, yes big surprise <br/>
-Based in Banglore, India <br/>
-
+Based in Bangalore, India <br/>
 Fueled by the blissful vibes of green tea so that I don't bash my keyboard in <br/>
 
 
@@ -21,7 +20,7 @@ Fueled by the blissful vibes of green tea so that I don't bash my keyboard in <b
 
 ## 🎶 Fun Corner
 
-> “Code is amazing when is works..... when it works..... *cries.”  
+> “Code is amazing when it works..... when it works..... *cries.”  
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
